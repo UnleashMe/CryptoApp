@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CryptoApp</string>
+    <string name="price_usd">Price USD</string>
+    <string name="vwap_24h">VWAP (24h)</string>
+    <string name="volume_usd_24h">Volume USD (24h)</string>
+    <string name="market_cap_usd_24h">Market Cap USD (24h)</string>
+    <string name="supply">Supply</string>
+    <string name="max_supply">Max Supply</string>
+    <string name="markets">Markets</string>
+    <string name="market_abbr">%1$s-%2$s</string>
+    <string name="trades_count_24h">Trades Count (24h)</string>
+    <string name="dark_theme">Dark theme</string>
+</resources>
